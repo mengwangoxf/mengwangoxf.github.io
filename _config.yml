@@ -22,3 +22,5 @@ nav:
     link: "contact"
   - name: "Teaching"
     link: "teaching"
+
+theme: jekyll-theme-minimal
