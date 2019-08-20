@@ -1,0 +1,24 @@
+title: Meng Wang
+url: "https://google.com"
+baseurl: ""
+
+markdown: kramdown
+ins_logo: "./bristol.png"
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+  - name: "About"
+    link: "/"
+  - name: "Research"
+    link: "research"
+  - name: "Publications"
+    link: "publications"
+  - name: "Contact"
+    link: "contact"
+  - name: "Teaching"
+    link: "teaching"
