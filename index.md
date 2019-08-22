@@ -13,13 +13,19 @@ Dr. Meng Wang is a Senior Lecturer in the Department of Computer Science, with r
 
 The central theme of his research is to apply theoretical rigour to practical programming, with the aim of improving the correctness and robustness of software systems. In particular, he focuses on designing languages and tools for software development and testing.
 
-## Research keywords
+#### Research keywords
 
 * Programming Languages
 * Functional Programming
 * Bidirectional Programming
 * Software Engineering
 * Testing
+
+## News
+
+1 Sep 2019: Dr Kazutaka Matsuda from Tohoku University is visiting for two weeks.   
+
+1 Sep 2019: Dr Kazutaka Matsuda from Tohoku University is visiting for two weeks. 
 
 ---
 
