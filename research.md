@@ -3,9 +3,8 @@ layout: default
 title: Research
 ---
 
-## Research
-
 ### Current Projects
+
 Year | Title 
 ---|-----------
 2019-2020 | *Highly-Usable High-Level Bidirectional Programming Language*, Japan Society for the Promotion of Science 2018-2021 | *Software Testing Guided by Differential Analysis on Programming Languages*, Royal Society NAF\R1\180142 
@@ -13,6 +12,7 @@ Year | Title
 2017-2020 | *A New Generation of Bidirectional Languages*, University of Kent
 
 ### Past Projects
+
 Year | Title 
 ---|-----------
 2016-2018 | *Testing Techniques for Functional Programming Languages*, Royal Society NAF\R1\180142 
