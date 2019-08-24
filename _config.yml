@@ -18,6 +18,8 @@ nav:
     link: "research"
   - name: "Publications"
     link: "publications"
+  - name: "Team"
+    link: "team"
   - name: "Contact"
     link: "contact"
   - name: "Teaching"
