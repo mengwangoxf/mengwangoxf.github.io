@@ -2,6 +2,8 @@
 layout: default
 title: Research
 ---
+## Research
+
 
 ### Current Projects
 
