@@ -6,7 +6,7 @@ title: Team
 ## PhD Students
 
 * Samantha Frohlich (2019 --)
-* Joanna Sharrad (2017 -- )
+* Joanna Sharrad (2017 -- ) 
 * Joe Harrison (2015 -- )
 
 ## Past Members 

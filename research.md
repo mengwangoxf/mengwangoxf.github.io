@@ -28,5 +28,10 @@ I am in the PC of the following conferences. Please consider submitting.
 
 Past services: TASE 2019, ICFP 2018, TFP 2018, FLOPS 2018, BX 2018, IFL 2017, TFP 2017 (co-chair), BX 2017, IFL 2016, ICFP 2016, BX 2015, ACM SRC 2015, WGP 2014, ICFP SRC 2014 (Chair), APLAS 2013, PPDP 2013, FLOPS 2013
 
+### Memberships
+
+* Royal Society Newton Advanced Fellowship panel
+* Information Processing’s Working Group 2.1 on Algorithmic Languages and Calculi
+* Steering Committee of the Symposium on Trends in Functional Programming
 
 ---
