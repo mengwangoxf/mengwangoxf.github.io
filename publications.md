@@ -5,9 +5,9 @@ title: publications
 
 ## Journal Publications
 
-1. [NGC 2018] *FliPpr: A System for Deriving Parsers from Pretty-Printers* in New Generation Computing.Joint work with Kazutaka Matsuda.
-1. [JFP 2018] *Applicative Bidirectional Programming: Mixing Lenses and Semantic Bidirectionalization*in Journal of Functional Programming. Joint work with Kazutaka Matsuda. 
-1. [NSR 2015] *How Functional Programming Mattered* in National Science Review. Joint work withZhenjiang Hu and John Hughes. (IF 8.843)
+1. [NGC 2018] [*FliPpr: A System for Deriving Parsers from Pretty-Printers*](./Papers/NGC18.pdf) in New Generation Computing.Joint work with Kazutaka Matsuda.
+1. [JFP 2018] [*Applicative Bidirectional Programming: Mixing Lenses and Semantic Bidirectionalization*](./Papers/JFP18.pdf)in Journal of Functional Programming. Joint work with Kazutaka Matsuda. 
+1. [NSR 2015] [*How Functional Programming Mattered*](./Papers/NSR15.pdf) in National Science Review. Joint work withZhenjiang Hu and John Hughes. (IF 8.843)
 1. [SCP 2015] *"Bidirectionalization for Free" for Monomorphic Transformations* in Science of ComputerProgramming. Joint work with Kazutaka Matsuda
 
 1. [JFP 2013] *Enhancing Semantic Bidirectionalization via Shape Bidirectionalizer Plug-ins* in Journal ofFunctional Programming. Joint work with Janis Voigtländer, Zhenjiang Hu, and KazutakaMatsuda
@@ -17,17 +17,17 @@ title: publications
 
 ## Conference Publications
 
-1. [ICST 2019] *Do Pseudo Test Suites Lead to Inflated Correlation in Measuring Test Effectiveness?* in IEEE International Conference on Software Testing, Verification and Validation. Joint work with Jie Zhang, Lingming Zhang, Dan Hao, and Lu Zhang. (Core Ranking A)
+1. [ICST 2019] [*Do Pseudo Test Suites Lead to Inflated Correlation in Measuring Test Effectiveness?*](./Papers/ICST19.pdf) in IEEE International Conference on Software Testing, Verification and Validation. Joint work with Jie Zhang, Lingming Zhang, Dan Hao, and Lu Zhang. (Core Ranking A)
 
-1. [ESOP 2019] *Composing Bidirectional Programs Monadically* in European Symposium on Programming. Joint work with Li-yao Xia and Dominic Orchard. (Core Ranking A)
+1. [ESOP 2019] [*Composing Bidirectional Programs Monadically*](./Papers/ESOP19.pdf) in European Symposium on Programming. Joint work with Li-yao Xia and Dominic Orchard. (Core Ranking A)
 
 1. [IFL 2018] *Delta Debugging Type Errors with a Blackbox Compiler* in International Symposia onImplementation and Application of Functional Languages. Joint work with Joanna Sharradand Olaf Chitil.
-1. [Erlang 2018] *Understanding Formal Specifications through Good Examples* in ACM SIGPLAN ErlangWorkshop. Joint work with Alex Gerdes, John Hughes, Nicholas Smallbone, StefanHanenberg, and Sebastian Ivarsson.
-1. [Haskell 2018] *Embedding Invertible Languages with Binders: A Case of the FliPpr Language* in ACMSIGPLAN Haskell Symposium. Joint work with Kazutaka Matsuda.
-1. [ESOP 2018] *HOBiT: Programming Lenses without using Lens Combinators* in European Symposiumon Programming. Joint work with Kazutaka Matsuda.(Core Ranking A)
-1. [Internetware 2017] *Un-preprocessing: Extended CPP that works with your tools* in Asia-Pacific Symposiumon Internetware. Joint work with Yufeng Cheng, Yingfei Xiong, Zhengkai Wu, Yiming Wu,and Lu Zhang
+1. [Erlang 2018] [*Understanding Formal Specifications through Good Examples*](./Papers/Erlang18.pdf) in ACM SIGPLAN ErlangWorkshop. Joint work with Alex Gerdes, John Hughes, Nicholas Smallbone, StefanHanenberg, and Sebastian Ivarsson.
+1. [Haskell 2018] [*Embedding Invertible Languages with Binders: A Case of the FliPpr Language*](./Papers/Haskell18.pdf) in ACMSIGPLAN Haskell Symposium. Joint work with Kazutaka Matsuda.
+1. [ESOP 2018] [*HOBiT: Programming Lenses without using Lens Combinators*](./Papers/ESOP18.pdf) in European Symposiumon Programming. Joint work with Kazutaka Matsuda.(Core Ranking A)
+1. [Internetware 2017] [*Un-preprocessing: Extended CPP that works with your tools*](./Papers/Internetware17.pdf) in Asia-Pacific Symposiumon Internetware. Joint work with Yufeng Cheng, Yingfei Xiong, Zhengkai Wu, Yiming Wu,and Lu Zhang
 
-1. [ICST 2016] *Empirical Evaluation of Test Coverage for Functional Programs* in IEEE InternationalConference on Software Testing, Verification and Validation. Joint work with YufengCheng, Yingfei Xiong, Dan Hao, and Lu Zhang(Core Ranking A)
+1. [ICST 2016] [*Empirical Evaluation of Test Coverage for Functional Programs*](./Papers/ICST16.pdf) in IEEE InternationalConference on Software Testing, Verification and Validation. Joint work with YufengCheng, Yingfei Xiong, Dan Hao, and Lu Zhang(Core Ranking A)
 
 1. [Erlang 2015] *Linking Unit Tests and Properties* in ACM SIGPLAN Erlang Workshop. Joint work withAlex Gerdes, John Hughes, and Nick Smallbone.1. [ICFP 2015] *Applicative Bidirectional Programming with Lenses* in ACM SIGPLAN International Conferenceon Functional Programming. Joint work with Kazutaka Matsuda.(Core Ranking A*)
 1. [PEPM 2015] *Semantic Bidirectionalization Revisited* in ACM SIGPLAN Workshop on Partial Evaluationand Program Manipulation. Joint work with Shayan Najd.1. [PPDP 2013] *Bidirectionalization for Free with Runtime Recording* in International Symposium on Principlesand Practice of Declarative Programming. Joint work with Kazutaka Matsuda.1. [ESOP 2013] *FliPpr: A Prettier Invertible Printing System* in European Symposium on Programming.Joint work with Kazutaka Matsuda.(Core Ranking A)
