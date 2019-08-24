@@ -3,6 +3,8 @@ layout: default
 title: Research
 ---
 
+## Research
+
 ### Current Projects
 Year | Title 
 ---|-----------
