@@ -5,7 +5,7 @@ title: Contact
 ---
 ## Contact
 
-* Email: [meng.wang@bristol.ac.uk](mailto:meng.wang@bristol.ac.uk)
+* Email: [meng.wang[AT]bristol.ac.uk](mailto:meng.wang@bristol.ac.uk)
 
 * Phone: +44 (0) 117 954 5145
 
