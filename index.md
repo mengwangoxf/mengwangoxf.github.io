@@ -21,6 +21,8 @@ The central theme of his research is to apply theoretical rigour to practical pr
 * Software Engineering
 * Testing
 
+**I am looking for motivated PhD students. Please get in touch if you are interested.**
+
 ## News
 Sep 2019 : Dr Kazutaka Matsuda from Tohoku University is visiting for two weeks.   
 
