@@ -22,10 +22,7 @@ The central theme of his research is to apply theoretical rigour to practical pr
 * Testing
 
 ## News
-
-1 Sep 2019: Dr Kazutaka Matsuda from Tohoku University is visiting for two weeks.   
-
-1 Sep 2019: Dr Kazutaka Matsuda from Tohoku University is visiting for two weeks. 
+Sep 2019 : Dr Kazutaka Matsuda from Tohoku University is visiting for two weeks.   
 
 ---
 
