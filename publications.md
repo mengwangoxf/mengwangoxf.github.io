@@ -4,16 +4,22 @@ title: publications
 ---
 
 ## Journal Publications
+1. [TSE 2019] [*A Study of Programming Languages and Their Bug Resolution Characteristics*](./Papers/TSE19.pdf) in IEEE Transactions on Software Engineering.Joint work with Jie M. Zhang, Feng Li, Dan Hao, Hao Tang, Lu Zhang, and Mark Harman. (Core Ranking A*)
 
 1. [NGC 2018] [*FliPpr: A System for Deriving Parsers from Pretty-Printers*](./Papers/NGC18.pdf) in New Generation Computing.Joint work with Kazutaka Matsuda.
-1. [JFP 2018] [*Applicative Bidirectional Programming: Mixing Lenses and Semantic Bidirectionalization*](./Papers/JFP18.pdf)in Journal of Functional Programming. Joint work with Kazutaka Matsuda. 
-1. [NSR 2015] [*How Functional Programming Mattered*](./Papers/NSR15.pdf) in National Science Review. Joint work withZhenjiang Hu and John Hughes. (IF 8.843)
-1. [SCP 2015] [*"Bidirectionalization for Free" for Monomorphic Transformations*](./Papers/SCP15.pdf) in Science of ComputerProgramming. Joint work with Kazutaka Matsuda
+1. [JFP 2018] [*Applicative Bidirectional Programming: Mixing Lenses and Semantic Bidirectionalization*](./Papers/JFP18.pdf)in Journal of Functional Programming. Joint work with Kazutaka Matsuda. (Core Ranking A)
 
-1. [JFP 2013] [*Enhancing Semantic Bidirectionalization via Shape Bidirectionalizer Plug-ins*](./Papers/JFP13.pdf) in Journal ofFunctional Programming. Joint work with Janis Voigtländer, Zhenjiang Hu, and KazutakaMatsuda
-1. [SCP 2012] [*Refactoring Pattern Matching*](./Papers/SCP12.pdf) in Science of Computer Programming. Joint work withJeremy Gibbons, Kazutaka Matsuda, and Zhenjing Hu.
+1. [NSR 2015] [*How Functional Programming Mattered*](./Papers/NSR15.pdf) in National Science Review. Joint work withZhenjiang Hu and John Hughes. (IF 8.843)
+1. [SCP 2015] [*"Bidirectionalization for Free" for Monomorphic Transformations*](./Papers/SCP15.pdf) in Science of ComputerProgramming. Joint work with Kazutaka Matsuda. (Core Ranking A)
+
+
+1. [JFP 2013] [*Enhancing Semantic Bidirectionalization via Shape Bidirectionalizer Plug-ins*](./Papers/JFP13.pdf) in Journal ofFunctional Programming. Joint work with Janis Voigtländer, Zhenjiang Hu, and KazutakaMatsuda. (Core Ranking A)
+
+1. [SCP 2012] [*Refactoring Pattern Matching*](./Papers/SCP12.pdf) in Science of Computer Programming. Joint work withJeremy Gibbons, Kazutaka Matsuda, and Zhenjing Hu. (Core Ranking A)
+
 1. [HOSC 2011] [*Side-Effect Localization for Lazy, Purely Functional Languages via Aspects*](./Papers/HOSC11.pdf) in Higher-Orderand Symbolic Computation. Joint work with Kung Chen, Shu-Chun Weng, Jia-Yin Lin,and Siau-Cheng Khoo.
-1. [SCP 2010] [*Type-Directed Weaving of Aspects for Polymorphically Typed Functional Languages*](./Papers/SCP10.pdf) inScience of Computer Programming. Joint work with Kung Chen, Shu-Chun Weng, Siau-Cheng Khoo, and Chung-Hsin Chen.
+1. [SCP 2010] [*Type-Directed Weaving of Aspects for Polymorphically Typed Functional Languages*](./Papers/SCP10.pdf) inScience of Computer Programming. Joint work with Kung Chen, Shu-Chun Weng, Siau-Cheng Khoo, and Chung-Hsin Chen. (Core Ranking A)
+
 
 ## Conference Publications
 

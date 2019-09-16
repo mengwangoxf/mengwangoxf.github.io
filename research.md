@@ -9,9 +9,11 @@ title: Research
 
 Year | Title 
 -----|-----------
+2020-2023 | *EXHIBIT : Expressive High-Level Languages for Bidirectional Transformations*, EPSRC EP/T008911/1
 2019-2020 | *Highly-Usable High-Level Bidirectional Programming Language*, Japan Society for the Promotion of Science 2018-2021 | *Software Testing Guided by Differential Analysis on Programming Languages*, Royal Society NAF\R1\180142 
 2018-2020 | *Bidirectional Compiler for Software Evolution*, Royal Society IES\R3\170104
 2017-2020 | *A New Generation of Bidirectional Languages*, University of Kent
+
 
 ### Past Projects
 
@@ -30,6 +32,7 @@ Past services: TASE 2019, ICFP 2018, TFP 2018, FLOPS 2018, BX 2018, IFL 2017, TF
 
 ### Memberships
 
+* EPSRC Peer Review College 
 * Royal Society Newton Advanced Fellowship panel
 * Information Processing’s Working Group 2.1 on Algorithmic Languages and Calculi
 * Steering Committee of the Symposium on Trends in Functional Programming

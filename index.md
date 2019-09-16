@@ -24,7 +24,13 @@ The central theme of his research is to apply theoretical rigour to practical pr
 **I am looking for motivated PhD students. Please get in touch if you are interested.**
 
 ## News
+
+Sep 2019 : Project *EXHIBIT : Expressive High-Level Languages for Bidirectional Transformations* funded by EPSRC (EP/T008911/1). 
+
 Sep 2019 : Dr Kazutaka Matsuda from Tohoku University is visiting for two weeks.   
+
+Aug 2019 : Samantha Frohlich won the first prize of ICFP 2019 Student Research Competition (Undergraduate Category). Well done Sam!
+
 
 ---
 
