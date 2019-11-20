@@ -5,7 +5,9 @@ title: Team
 
 ## PhD Students
 
-* Samantha Frohlich (2019 --)
+* Anton Antich (2020 --)
+* Minh Nguyen (2020 --)
+* Samantha Frohlich (2020 --)
 * Joanna Sharrad (2017 -- ) 
 * Joe Harrison (2015 -- )
 
