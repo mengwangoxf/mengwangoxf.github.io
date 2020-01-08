@@ -30,6 +30,7 @@ I am in the PC of the following conferences. Please consider submitting.
 * [TFP 2020](http://www.cse.chalmers.se/~rjmh/tfp/)
 * [EASE 2020](https://www.ntnu.edu/ease2020)
 * [TASE 2020](https://sei.ecnu.edu.cn/tase2020/)
+* [BX 2020](http://bx-community.wikidot.com/bx2020:home) (Co-chair)
 
 Past services: TASE 2019, ICFP 2018, TFP 2018, FLOPS 2018, BX 2018, IFL 2017, TFP 2017 (co-chair), BX 2017, IFL 2016, ICFP 2016, BX 2015, ACM SRC 2015, WGP 2014, ICFP SRC 2014 (Chair), APLAS 2013, PPDP 2013, FLOPS 2013
 
@@ -39,5 +40,6 @@ Past services: TASE 2019, ICFP 2018, TFP 2018, FLOPS 2018, BX 2018, IFL 2017, TF
 * Royal Society Newton Advanced Fellowship panel
 * Information Processing’s Working Group 2.1 on Algorithmic Languages and Calculi
 * Steering Committee of the Symposium on Trends in Functional Programming
+* Steering Committee of the Workshop on Bidirectional Transformation
 
 ---

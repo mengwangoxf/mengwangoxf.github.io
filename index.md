@@ -29,6 +29,10 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 ## News
 
+Dec, 2019
+: I am a co-chair for the Ninth International Workshop on Bidirectional Transformations ([BX 2020](http://bx-community.wikidot.com/bx2020:home)). Deadline for papers is 4 May 2020. 
+
+
 Nov, 2019
 : Three PhD students (Samantha Frohlich, Minh Nguyen, and Anton Antich) are starting in early 2020. Welcome! 
 
