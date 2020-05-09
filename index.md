@@ -28,6 +28,7 @@ The central theme of his research is to apply theoretical rigour to practical pr
 - [EXHIBIT](https://mengwangoxf.github.io/EXHIBIT)
 
 ## News
+
 May, 2020 
 : [*Sparcl: A Language for Partially-Invertible Computation*](./Papers/ICFP20.pdf) is accepted by ICFP'20. 
 
