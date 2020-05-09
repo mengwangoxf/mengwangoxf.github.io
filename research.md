@@ -28,6 +28,7 @@ Year | Title
 
 I am in the PC of the following conferences. Please consider submitting. 
 
+* [APLAS 2020](https://conf.researchr.org/track/aplas-2020/aplas-2020-papers)
 * [TFP 2020](http://www.cse.chalmers.se/~rjmh/tfp/)
 * [EASE 2020](https://www.ntnu.edu/ease2020)
 * [TASE 2020](https://sei.ecnu.edu.cn/tase2020/)

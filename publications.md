@@ -4,7 +4,7 @@ title: publications
 ---
 
 ## Journal Publications
-1. [TSE 2019] [*A Study of Programming Languages and Their Bug Resolution Characteristics*](./Papers/TSE19.pdf) in IEEE Transactions on Software Engineering.Joint work with Jie M. Zhang, Feng Li, Dan Hao, Hao Tang, Lu Zhang, and Mark Harman. (Core Ranking A*)
+1. [TSE 2019] [*A Study of Bug Resolution Characteristics inPopular Programming Languages*](./Papers/TSE19.pdf) in IEEE Transactions on Software Engineering.Joint work with Jie M. Zhang, Feng Li, Dan Hao, Hao Tang, Lu Zhang, and Mark Harman. (Core Ranking A*)
 
 1. [NGC 2018] [*FliPpr: A System for Deriving Parsers from Pretty-Printers*](./Papers/NGC18.pdf) in New Generation Computing.Joint work with Kazutaka Matsuda.
 1. [JFP 2018] [*Applicative Bidirectional Programming: Mixing Lenses and Semantic Bidirectionalization*](./Papers/JFP18.pdf)in Journal of Functional Programming. Joint work with Kazutaka Matsuda. (Core Ranking A)
@@ -22,6 +22,8 @@ title: publications
 
 
 ## Conference Publications
+
+1. [ICFP 2020] [*Applicative Bidirectional Programming with Lenses*](./Papers/ICFP20.pdf) in ACM SIGPLAN International Conferenceon Functional Programming. Joint work with Kazutaka Matsuda.(Core Ranking A*)
 
 1. [ICST 2019] [*Do Pseudo Test Suites Lead to Inflated Correlation in Measuring Test Effectiveness?*](./Papers/ICST19.pdf) in IEEE International Conference on Software Testing, Verification and Validation. Joint work with Jie Zhang, Lingming Zhang, Dan Hao, and Lu Zhang. (Core Ranking A)
 
