@@ -23,14 +23,11 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 **I am looking for motivated PhD students and PostDocs. Please get in touch if you are interested.**
 
-#### Projects
-
-- [EXHIBIT](https://mengwangoxf.github.io/EXHIBIT)
 
 ## News
 
 May, 2020 
-: [*Sparcl: A Language for Partially-Invertible Computation*](./Papers/ICFP20.pdf) is accepted by ICFP'20. 
+: [*Sparcl: A Language for Partially-Invertible Computation*](./Papers/ICFP20.pdf) is (unconditionally) accepted by ICFP'20. 
 
 Mar 2020 
 : Project *Making Software Development Language-Agnostic through Cross-Language Mapping and Migration* funded by the Royal Society (IES\R3\193175). 

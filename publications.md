@@ -23,7 +23,7 @@ title: publications
 
 ## Conference Publications
 
-1. [ICFP 2020] [*Applicative Bidirectional Programming with Lenses*](./Papers/ICFP20.pdf) in ACM SIGPLAN International Conferenceon Functional Programming. Joint work with Kazutaka Matsuda.(Core Ranking A*)
+1. [ICFP 2020] [*Sparcl: A Language for Partially-Invertible Computation*](./Papers/ICFP20.pdf) in ACM SIGPLAN International Conferenceon Functional Programming. Joint work with Kazutaka Matsuda.(Core Ranking A*)
 
 1. [ICST 2019] [*Do Pseudo Test Suites Lead to Inflated Correlation in Measuring Test Effectiveness?*](./Papers/ICST19.pdf) in IEEE International Conference on Software Testing, Verification and Validation. Joint work with Jie Zhang, Lingming Zhang, Dan Hao, and Lu Zhang. (Core Ranking A)
 
