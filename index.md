@@ -7,7 +7,9 @@ title: About
 
 <img class="profile-picture" src="avatar.jpeg">
 
-Dr. Meng Wang is a Senior Lecturer in the Department of Computer Science, with research interests in programming languages and software engineering. Previously, he was a lecturer at University of Kent, and an assistant professor at Chalmers University of Technology. He completed his DPhil (known as PhD elsewhere) at University of Oxford, and before that he studied at National University of Singapore.
+Dr. Meng Wang is a Senior Lecturer in the Department of Computer Science, with research interests in programming languages and software engineering. He leads the [*Programming Languages Research Group at Bristol*](https://bristolpl.github.io) and is a member of [*IFIP Working Group 2.1 on Algorithmic Languages and Calculi*](https://ifipwg21wiki.cs.kuleuven.be/IFIP21/WebHome). He is the International Director of [*School of Computer Science, Electrical and Electronic Engineering, and Engineering Maths*](https://www.bristol.ac.uk/engineering/school-sceem/), and a member of the school management team and school board. 
+
+Previously, he was a lecturer at University of Kent, and an assistant professor at Chalmers University of Technology. He completed his DPhil (known as PhD elsewhere) at University of Oxford, and before that he studied at National University of Singapore.
 
 ## Research Interest
 
@@ -17,7 +19,7 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 * Programming Languages
 * Functional Programming
-* Bidirectional Programming
+* [*Bidirectional Programming*](https://bx-lang.github.io/EXHIBIT/intro.html)
 * Software Engineering
 * Testing
 
@@ -25,6 +27,9 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 
 ## News
+
+Jun, 2020
+: I am very glad to be nominated for *Inspiring and Innovative Teaching Award* at Bristol for my Functional Programming unit. I had a lot of fun and it seems that the students did too!
 
 May, 2020 
 : [*Sparcl: A Language for Partially-Invertible Computation*](./Papers/ICFP20.pdf) is (unconditionally) accepted by ICFP'20. 
