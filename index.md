@@ -29,7 +29,7 @@ The central theme of his research is to apply theoretical rigour to practical pr
 ## News
 
 Jan, 2021
-: Weixin Zhang is joining the team as a senior research associate. Welcome Weixin. 
+: Weixin Zhang(https://wxzh.github.io/) is joining the team as a senior research associate. Welcome Weixin. 
 
 Jun, 2020
 : I am very glad to be nominated for *Inspiring and Innovative Teaching Award* at Bristol for my Functional Programming unit. I had a lot of fun and it seems that the students did too!
