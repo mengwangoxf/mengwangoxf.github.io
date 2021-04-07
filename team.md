@@ -3,11 +3,19 @@ layout: default
 title: Team
 ---
 
-## PhD Students
+## Researcher
+* Weixin Zhang (2021 --)
+* Hanliang Zhang (2021 --)
 
+
+## PhD Student
+
+* Ningning Xie (2021 visiting)
 * Minh Nguyen (2020 --)
 * Samantha Frohlich (2020 --)
-* Joanna Sharrad (2017 -- ) 
+* Feng Li (2018 --) (jointly supervised with Dr. Dan Hao from Peking University) 
+* Joanna Sharrad (2017 -- ) (jointly supervised with Dr. Olaf Chitil from University of Kent)
+
 
 ## Past Members 
 
