@@ -28,6 +28,12 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 ## News
 
+June, 2021
+: I am chairing the [Bx workshop](http://bx-community.wikidot.com/bx2021:home) with Leen Lambers.
+
+June, 2021
+: Hanliang Zhang joins the team as a research assistant on the Rust project.
+
 Feb, 2021
 : Funding success! *Verified Program Synthesis for Refactoring Rust Programs* is funded by the National Cyber Security Centre (NCSC).   
 
@@ -35,7 +41,7 @@ Jan, 2021
 : [Ningning Xie](https://xnning.github.io/) from University of Hongkong is visiting us for four months. Welcome Ningning! 
 
 Dec, 2020
-: [Weixin Zhang](https://wxzh.github.io/) is joining the team as a senior research associate on the [*EXHIBIT*](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T008911/1) project. Welcome Weixin! 
+: [Weixin Zhang](https://wxzh.github.io/) joins the team as a senior research associate on the [*EXHIBIT*](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T008911/1) project. Welcome Weixin! 
 
 Jun, 2020
 : I am very glad to be nominated for *Inspiring and Innovative Teaching Award* at Bristol for my Functional Programming unit. I had a lot of fun and it seems that the students did too!
