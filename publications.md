@@ -25,7 +25,7 @@ title: publications
 
 ## Conference Publications
 
-1. [OOPSLA 2021] [*Synbit: Synthesizing Bidirectional Programs using Unidirectional Sketches*](./Papers/OOPSLA21.pdf) in ACM SIGPLAN International Conferenceon Object-Oriented Programming Systems, Languages and Applications. Joint work with Masaomi Yamaguchi, Kazutaka Matsuda, and Cristina David.(Core Ranking A*)
+1. [OOPSLA 2021] [*Synbit: Synthesizing Bidirectional Programs using Unidirectional Sketches*](./Papers/oopsla21.pdf) in ACM SIGPLAN International Conferenceon Object-Oriented Programming Systems, Languages and Applications. Joint work with Masaomi Yamaguchi, Kazutaka Matsuda, and Cristina David.(Core Ranking A*)
 
 1. [ICFP 2020] [*Sparcl: A Language for Partially-Invertible Computation*](./Papers/ICFP20.pdf) in ACM SIGPLAN International Conferenceon Functional Programming. Joint work with Kazutaka Matsuda.(Core Ranking A*)
 

@@ -29,7 +29,7 @@ The central theme of his research is to apply theoretical rigour to practical pr
 ## News
 
 Sep, 2021 
-: [**Synbit: Synthesizing Bidirectional Programs using Unidirectional Sketches**](./Papers/OOPSLA21.pdf) is  accepted by OOPSLA'21. 
+: [**Synbit: Synthesizing Bidirectional Programs using Unidirectional Sketches**](./Papers/oopsla21.pdf) is  accepted by OOPSLA'21. 
 
 June, 2021
 : I am chairing the [Bx workshop](http://bx-community.wikidot.com/bx2021:home) with Leen Lambers.
