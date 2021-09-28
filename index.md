@@ -29,7 +29,10 @@ The central theme of his research is to apply theoretical rigour to practical pr
 ## News
 
 Sep, 2021 
-: [**Synbit: Synthesizing Bidirectional Programs using Unidirectional Sketches**](./Papers/oopsla21.pdf) is  accepted by OOPSLA'21. 
+: Two papers [Staging with Class](./Papers/popl22a.pdf) and [Linked visualisations via Galois dependencies](./Papers/popl22b.pdf) are accepted by POPL'22. 
+
+Sep, 2021 
+: [Synbit: Synthesizing Bidirectional Programs using Unidirectional Sketches](./Papers/oopsla21.pdf) is accepted by OOPSLA'21. 
 
 Aug, 2021
 : My student Minh Nguyen won the first place at the ACM Student Research Competition (ICFP) with *Composable, Modular Probabilistic Models*. Congratulations Minh! 
