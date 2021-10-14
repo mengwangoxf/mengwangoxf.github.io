@@ -15,10 +15,10 @@ Year | Title
 2021-2022 | *Verified Program Synthesis for Refactoring Rust Programs*, NCSC/EPSRC
 2020-2024 | [*Applications of Functional Programming To Machine Learning*](https://gtr.ukri.org/projects?ref=studentship-2326453#/tabOverview), EPSRC
 2020-2023 | [*Bidirectional Compiler for Software Evolution*](https://gtr.ukri.org/projects?ref=studentship-2268785), EPSRC
-2020-2022 | *Making Software Development Language-Agnostic through Cross-Language Mapping and Migration*, Royal Society IES\R3\193175 
-2020-2023 | [*EXHIBIT : Expressive High-Level Languages for Bidirectional Transformations*](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T008911/1), [EPSRC]
-2018-2021 | *Software Testing Guided by Differential Analysis on Programming Languages*, Royal Society NAF\R1\180142 
-2018-2020 | *Bidirectional Compiler for Software Evolution*, Royal Society IES\R3\170104
+2020-2022 | *Making Software Development Language-Agnostic through Cross-Language Mapping and Migration*, Royal Society 
+2020-2023 | [*EXHIBIT : Expressive High-Level Languages for Bidirectional Transformations*](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T008911/1), EPSRC
+2018-2021 | *Software Testing Guided by Differential Analysis on Programming Languages*, Royal Society 
+2018-2020 | *Bidirectional Compiler for Software Evolution*, Royal Society
 
 
 ### Past Projects
