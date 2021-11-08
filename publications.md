@@ -24,6 +24,9 @@ title: publications
 
 
 ## Conference Publications
+1. [POPL 2022a] [*Staging with Class - A specification for Typed Template Haskell*](./Papers/POPL22a.pdf) in ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages. Joint work with Ningning Xie, Matthew Pickering, Andres Loh, Nicolas Wu, and Jeremy Yallop.(Core Ranking A*)
+
+1. [POPL 2022b] [*Linked visualisations via Galois dependencies*](./Papers/POPL22b.pdf) in ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages. Joint work with Roly Perera, Minh Nguyen, and Tomas Petricek.(Core Ranking A*)
 
 1. [OOPSLA 2021] [*Synbit: Synthesizing Bidirectional Programs using Unidirectional Sketches*](./Papers/oopsla21.pdf) in ACM SIGPLAN International Conferenceon Object-Oriented Programming Systems, Languages and Applications. Joint work with Masaomi Yamaguchi, Kazutaka Matsuda, and Cristina David.(Core Ranking A*)
 
