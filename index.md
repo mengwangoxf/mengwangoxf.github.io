@@ -28,6 +28,9 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 ## News
 
+Dec, 2021
+: Funding success! *Ownership and Lifetime Driven Synthesizer for Automatic C to Rust Translation* is funded by Huawei Ireland.
+
 Sep, 2021
 : Two papers [Staging with Class](./Papers/POPL22a.pdf) and [Linked visualisations via Galois dependencies](./Papers/POPL22b.pdf) are accepted by POPL'22.
 

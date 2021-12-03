@@ -4,7 +4,7 @@ title: Research
 ---
 ## Research
 
-My research is generously supported by [EPSRC](https://epsrc.ukri.org/) and the [Royal Society](https://royalsociety.org/), for which I am very grateful. 
+My research is generously supported by [EPSRC](https://epsrc.ukri.org/), the [Royal Society](https://royalsociety.org/), [NCSC](https://www.ncsc.gov.uk/), and industry partners, for which I am very grateful. My active grant is around 1 million. 
 
 I am the Principle Investigator of the following Projects. 
 
@@ -12,6 +12,7 @@ I am the Principle Investigator of the following Projects.
 
 Year | Title 
 -----|-----------
+2022-2024 | *Ownership and Lifetime Driven Synthesizer for Automatic C to Rust Translation*, Huawei Ireland
 2021-2022 | *Verified Program Synthesis for Refactoring Rust Programs*, NCSC/EPSRC
 2020-2024 | [*Applications of Functional Programming To Machine Learning*](https://gtr.ukri.org/projects?ref=studentship-2326453#/tabOverview), EPSRC
 2020-2023 | [*Bidirectional Compiler for Software Evolution*](https://gtr.ukri.org/projects?ref=studentship-2268785), EPSRC
