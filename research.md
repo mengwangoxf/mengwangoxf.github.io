@@ -14,8 +14,6 @@ Year | Title
 -----|-----------
 2022-2024 | *Ownership and Lifetime Driven Synthesizer for Automatic C to Rust Translation*, Huawei Ireland
 2021-2022 | *Verified Program Synthesis for Refactoring Rust Programs*, NCSC/EPSRC
-2020-2024 | [*Applications of Functional Programming To Machine Learning*](https://gtr.ukri.org/projects?ref=studentship-2326453#/tabOverview), EPSRC
-2020-2023 | [*Bidirectional Compiler for Software Evolution*](https://gtr.ukri.org/projects?ref=studentship-2268785), EPSRC
 2020-2022 | *Making Software Development Language-Agnostic through Cross-Language Mapping and Migration*, Royal Society 
 2020-2023 | [*EXHIBIT : Expressive High-Level Languages for Bidirectional Transformations*](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T008911/1), EPSRC
 2018-2021 | *Software Testing Guided by Differential Analysis on Programming Languages*, Royal Society 
