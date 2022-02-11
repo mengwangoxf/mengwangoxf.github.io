@@ -5,6 +5,7 @@ title: Team
 
 ## Research Associate
 * Weixin Zhang 
+* Samantha Frohlich 
 
 ## PhD Student
 
