@@ -3,11 +3,11 @@ layout: default
 title: Team
 ---
 
-## Research Associate
+## Research Associates
 * Weixin Zhang 
 * Samantha Frohlich 
 
-## PhD Student
+## PhD Students
 
 * James Foster (2022 --)
 * Hanliang Zhang (2022 --)
@@ -15,7 +15,7 @@ title: Team
 * Samantha Frohlich (2020 --)
 * Feng Li (2018 --) (jointly supervised with Dr. Dan Hao from Peking University) 
 
-## Research Assistant
+## Research Assistants
 * Rose Hudson 
 * Ash England-Elbro
 
