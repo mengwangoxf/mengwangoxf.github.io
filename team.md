@@ -22,7 +22,7 @@ title: Team
 ## Past Members 
 
 * Joanna Sharrad (PhD student. Graduated in 2022.)
-* Ningning Xie (Visiting PhD student from Hong Kong University. Graduated in 2021.)
+* Ningning Xie (Visiting PhD student from Hong Kong University. Graduated in 2021. Now a research associate at University of Cambridge.)
 * Joe Harrison (PhD student. Graduated in 2019. Now a research associate at University of Kent.)
 * Jonas Duregård (PhD student. Graduated in 2016. Now a senior lecturer at Chalmers University of Technology.)
 
