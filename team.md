@@ -2,10 +2,15 @@
 layout: default
 title: Team
 ---
+## Research Fellow
+* Roly Perera 
+
 
 ## Research Associates
 * Weixin Zhang 
 * Samantha Frohlich 
+* Joe Bond
+* Cameron Low
 
 ## PhD Students
 
@@ -18,11 +23,12 @@ title: Team
 ## Research Assistants
 * Rose Hudson 
 * Ash England-Elbro
+* Oli Newcombe
 
 ## Past Members 
 
 * Joanna Sharrad (PhD student. Graduated in 2022.)
-* Ningning Xie (Visiting PhD student from Hong Kong University. Graduated in 2021. Now a research associate at University of Cambridge.)
+* Ningning Xie (Visiting PhD student from Hong Kong University. Graduated in 2021. Now an assistant professor at University of Toronto.)
 * Joe Harrison (PhD student. Graduated in 2019. Now a research associate at University of Kent.)
 * Jonas Duregård (PhD student. Graduated in 2016. Now a senior lecturer at Chalmers University of Technology.)
 
