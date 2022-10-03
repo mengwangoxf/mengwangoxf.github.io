@@ -28,6 +28,9 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 ## News
 
+May, 2022
+: [Modular Probabilistic Models via Algebraic Effects](./Papers/ICFP22.pdf) is accepted by ICFP'21.
+
 Dec, 2021
 : Funding success! *Ownership and Lifetime Driven Synthesizer for Automatic C to Rust Translation* is funded by Huawei Ireland.
 
