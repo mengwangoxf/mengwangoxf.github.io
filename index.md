@@ -5,7 +5,7 @@ title: About
 
 ## About Me
 
-<img class="profile-picture" src="avatar.jpeg">
+<img class="profile-picture" src="avatar2.jpeg">
 
 Dr. Meng Wang is a Reader in the Department of Computer Science, with research interests in programming languages and software engineering. He leads the [*Programming Languages Research Group at Bristol*](https://bristolpl.github.io) and is a member of [*IFIP Working Group 2.1 on Algorithmic Languages and Calculi*](https://ifipwg21wiki.cs.kuleuven.be/IFIP21/WebHome). He is the International Director of [*School of Computer Science, Electrical and Electronic Engineering, and Engineering Maths*](https://www.bristol.ac.uk/engineering/school-sceem/), and a member of the school management team and school board.
 
