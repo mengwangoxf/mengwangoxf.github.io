@@ -28,6 +28,12 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 ## News
 
+Oct, 2022
+: [Exploring Better Black-Box Test Case Prioritization via Log Analysis](./Papers/TOSEM22.pdf) is accepted by ACM Transactions on Software Engineering and Methodology. 
+
+Sep, 2022
+: Roly Perera has joint the group as a research fellow, and Joe Bond and Cameron Low as research associates. Welcome!
+
 May, 2022
 : [Modular Probabilistic Models via Algebraic Effects](./Papers/ICFP22.pdf) is accepted by ICFP'21.
 
