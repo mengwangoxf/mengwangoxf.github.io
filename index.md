@@ -22,6 +22,8 @@ The central theme of his research is to apply theoretical rigour to practical pr
 * [*Bidirectional Programming*](https://bx-lang.github.io/EXHIBIT/intro.html)
 * Software Engineering
 * Testing
+* [*Data-linked visualisations*](https://f.luid.org/)
+
 
 **I am looking for motivated PhD students and PostDocs. Please get in touch if you are interested.**
 
