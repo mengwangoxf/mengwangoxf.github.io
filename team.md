@@ -13,6 +13,7 @@ title: Team
 
 ## PhD Students
 
+* April Tune
 * Celia Li 
 * Charlie Walpole 
 * Jessica Foster 
