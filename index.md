@@ -30,6 +30,15 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 ## News
 
+May, 2023
+: Two papers [Embedding by Unembedding](./Papers/ICFP23a.pdf) and [Reflecting on Random Generation](./Papers/ICFP23b.pdf) are accepted by ICFP'23.
+
+Apr, 2023
+: [Ownership guided C to Rust translation](./Papers/CAV23.pdf) is accepted by CAV'23. 
+
+Feb, 2023
+: Funding success! *Debugging Systems For Metaprogramming-based EDSLs* is funded by Huawei Ireland.
+
 Oct, 2022
 : [Exploring Better Black-Box Test Case Prioritization via Log Analysis](./Papers/TOSEM22.pdf) is accepted by ACM Transactions on Software Engineering and Methodology. 
 
