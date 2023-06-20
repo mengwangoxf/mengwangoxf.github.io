@@ -30,6 +30,14 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 ## News
 
+Jun, 2023
+: My student Minh Nguyen is awarded EPSRC Doctoral Prize Fellowship for the proposal Robust, Reusable Computational Models via Typed Functional Programming.
+
+
+Jun, 2023
+: The extended version of our OOPSLA'21 paper [Synbit: Synthesizing Bidirectional Programs using Unidirectional Sketches](./Papers/FMSD23.pdf) is 
+accepted by Journal of Formal Methods in System Design. 
+
 May, 2023
 : Two papers [Embedding by Unembedding](./Papers/ICFP23a.pdf) and [Reflecting on Random Generation](./Papers/ICFP23b.pdf) are accepted by ICFP'23.
 
