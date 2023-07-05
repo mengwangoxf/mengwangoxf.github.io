@@ -30,8 +30,11 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 ## News
 
+July, 2023
+: [Effect Handlers for Programmable Inference](./Papers/Haskell23.pdf) is accepted by Haskell'23. 
+
 Jun, 2023
-: We are recruiting a [lecturer in Programming Languages and Compilers](https://www.bristol.ac.uk/jobs/find/details/?jobId=316176&jobTitle=Lecturer%20in%20Programming%20Languages%20and%20Compilers).
+: **We are recruiting a [lecturer in Programming Languages and Compilers](https://www.bristol.ac.uk/jobs/find/details/?jobId=316176&jobTitle=Lecturer%20in%20Programming%20Languages%20and%20Compilers).**
 
 Jun, 2023
 : My student Minh Nguyen is awarded EPSRC Doctoral Prize Fellowship for the proposal Robust, Reusable Computational Models via Typed Functional Programming.
