@@ -5,7 +5,7 @@ title: publications
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-7780-630X" href="https://orcid.org/0000-0001-7780-630X" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-7780-630X</a></div>.
 
-1. [Haskell 2023] [*Effect Handlers for Programmable Inference*](./Papers/Haskell18.pdf) in ACMSIGPLAN Haskell Symposium. Joint work with Minh Nguyen, Roly Perera, and Steven Ramsay.
+1. [Haskell 2023] [*Effect Handlers for Programmable Inference*](./Papers/Haskell23.pdf) in ACMSIGPLAN Haskell Symposium. Joint work with Minh Nguyen, Roly Perera, and Steven Ramsay.
 
 1. [ICFP 2023a] [*Embedding by Unembedding*](./Papers/ICFP23a.pdf) in Proceedings of the ACM on Programming Languages (PACMPL ICFP). Joint work with Kazutaka Matsuda, Samantha Frohlich, and Nick Wu.
 (Core Ranking A)
