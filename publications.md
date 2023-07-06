@@ -6,7 +6,7 @@ title: publications
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-7780-630X" href="https://orcid.org/0000-0001-7780-630X" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-7780-630X</a></div>.
 
 
-1. [TOSEM 2022] [*Exploring Better Black-Box Test Case Prioritization via Log Analysis*](./Papers/TOSEM23.pdf) in ACM Transactions on Software Engineering and Methodology. (Core Ranking A*)
+1. [TOSEM 2023] [*Exploring Better Black-Box Test Case Prioritization via Log Analysis*](./Papers/TOSEM23.pdf) in ACM Transactions on Software Engineering and Methodology. (Core Ranking A*)
 
 1. [ICFP 2022] [*Modular Probabilistic Models via Algebraic Effects*](./Papers/ICFP22.pdf) in ACM SIGPLAN International Conferenceon Functional Programming. Joint work with Minh Nguyen, Roly Perera and Nicolas Wu. (Core Ranking A)1. [PADL 2022] [*CircuitFlow: A Domain Specific Language for Dataflow Programming*](./Papers/PADL22.pdf) in International Symposium on Practical Aspects of Declarative Languages. Joint work with Riley Evans and Samantha Frohlich.1. [POPL 2022a] [*Staging with Class - A specification for Typed Template Haskell*](./Papers/POPL22a.pdf) in ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages. Joint work with Ningning Xie, Matthew Pickering, Andres Loh, Nicolas Wu, and Jeremy Yallop.(Core Ranking A*)
 
