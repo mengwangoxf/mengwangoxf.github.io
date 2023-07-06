@@ -4,17 +4,23 @@ title: publications
 ---
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-7780-630X" href="https://orcid.org/0000-0001-7780-630X" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-7780-630X</a></div>.
-
+
+1. [Haskell 2023] [*Effect Handlers for Programmable Inference*](./Papers/Haskell18.pdf) in ACMSIGPLAN Haskell Symposium. Joint work with Minh Nguyen, Roly Perera, and Steven Ramsay.
+
+1. [ICFP 2023a] [*Embedding by Unembedding*](./Papers/ICFP23a.pdf) in Proceedings of the ACM on Programming Languages (PACMPL ICFP). Joint work with Kazutaka Matsuda, Samantha Frohlich, and Nick Wu.
+(Core Ranking A)
+
+1. [ICFP 2023b] [*Reflecting on Random Generation*](./Papers/ICFP23b.pdf) in Proceedings of the ACM on Programming Languages (PACMPL ICFP). Joint work with Harrison Goldstein, Samantha Frohlich, and Benjamin C. Pierce. (Core Ranking A)
 
 1. [TOSEM 2023] [*Exploring Better Black-Box Test Case Prioritization via Log Analysis*](./Papers/TOSEM23.pdf) in ACM Transactions on Software Engineering and Methodology. (Core Ranking A*)
 
-1. [ICFP 2022] [*Modular Probabilistic Models via Algebraic Effects*](./Papers/ICFP22.pdf) in ACM SIGPLAN International Conferenceon Functional Programming. Joint work with Minh Nguyen, Roly Perera and Nicolas Wu. (Core Ranking A)1. [PADL 2022] [*CircuitFlow: A Domain Specific Language for Dataflow Programming*](./Papers/PADL22.pdf) in International Symposium on Practical Aspects of Declarative Languages. Joint work with Riley Evans and Samantha Frohlich.1. [POPL 2022a] [*Staging with Class - A specification for Typed Template Haskell*](./Papers/POPL22a.pdf) in ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages. Joint work with Ningning Xie, Matthew Pickering, Andres Loh, Nicolas Wu, and Jeremy Yallop.(Core Ranking A*)
+1. [ICFP 2022] [*Modular Probabilistic Models via Algebraic Effects*](./Papers/ICFP22.pdf) in Proceedings of the ACM on Programming Languages (PACMPL ICFP). Joint work with Minh Nguyen, Roly Perera and Nicolas Wu. (Core Ranking A)1. [PADL 2022] [*CircuitFlow: A Domain Specific Language for Dataflow Programming*](./Papers/PADL22.pdf) in International Symposium on Practical Aspects of Declarative Languages. Joint work with Riley Evans and Samantha Frohlich.1. [POPL 2022a] [*Staging with Class - A specification for Typed Template Haskell*](./Papers/POPL22a.pdf) in Proceedings of the ACM on Programming Languages (PACMPL POPL). Joint work with Ningning Xie, Matthew Pickering, Andres Loh, Nicolas Wu, and Jeremy Yallop.(Core Ranking A*)
 
-1. [POPL 2022b] [*Linked visualisations via Galois dependencies*](./Papers/POPL22b.pdf) in ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages. Joint work with Roly Perera, Minh Nguyen, and Tomas Petricek.(Core Ranking A*)
+1. [POPL 2022b] [*Linked visualisations via Galois dependencies*](./Papers/POPL22b.pdf) in Proceedings of the ACM on Programming Languages (PACMPL POPL). Joint work with Roly Perera, Minh Nguyen, and Tomas Petricek.(Core Ranking A*)
 
-1. [OOPSLA 2021] [*Synbit: Synthesizing Bidirectional Programs using Unidirectional Sketches*](./Papers/oopsla21.pdf) in ACM SIGPLAN International Conferenceon Object-Oriented Programming Systems, Languages and Applications. Joint work with Masaomi Yamaguchi, Kazutaka Matsuda, and Cristina David.(Core Ranking A*)
+1. [OOPSLA 2021] [*Synbit: Synthesizing Bidirectional Programs using Unidirectional Sketches*](./Papers/oopsla21.pdf) in Proceedings of the ACM on Programming Languages (PACMPL OOPSLA). Joint work with Masaomi Yamaguchi, Kazutaka Matsuda, and Cristina David.(Core Ranking A*)
 
-1. [ICFP 2020] [*Sparcl: A Language for Partially-Invertible Computation*](./Papers/ICFP20.pdf) in ACM SIGPLAN International Conferenceon Functional Programming. Joint work with Kazutaka Matsuda.(Core Ranking A*)
+1. [ICFP 2020] [*Sparcl: A Language for Partially-Invertible Computation*](./Papers/ICFP20.pdf) in Proceedings of the ACM on Programming Languages (PACMPL ICFP). Joint work with Kazutaka Matsuda.(Core Ranking A*)
 
 1. [ICST 2019] [*Do Pseudo Test Suites Lead to Inflated Correlation in Measuring Test Effectiveness?*](./Papers/ICST19.pdf) in IEEE International Conference on Software Testing, Verification and Validation. Joint work with Jie Zhang, Lingming Zhang, Dan Hao, and Lu Zhang. (Core Ranking A)
 
