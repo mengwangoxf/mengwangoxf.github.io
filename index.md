@@ -31,6 +31,10 @@ The central theme of his research is to apply theoretical rigour to practical pr
 ## News
 
 July, 2023
+: [Contract Lenses: Reasoning about Bidirectional Programs via Calculation](./Papers/JFP23.pdf) is accepted by Journal of Functional Programming. 
+
+
+July, 2023
 : [Effect Handlers for Programmable Inference](./Papers/Haskell23.pdf) is accepted by Haskell'23. 
 
 Jun, 2023
