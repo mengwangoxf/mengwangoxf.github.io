@@ -4,7 +4,7 @@ title: Research
 ---
 ## Research
 
-My research is generously supported by [EPSRC](https://epsrc.ukri.org/), the [Royal Society](https://royalsociety.org/), [NCSC](https://www.ncsc.gov.uk/), and industry partners, for which I am very grateful. My active grant is around 1 million. 
+My research is generously supported by [EPSRC](https://epsrc.ukri.org/), the [Royal Society](https://royalsociety.org/), [NCSC](https://www.ncsc.gov.uk/), and industry partners, for which I am very grateful. 
 
 I am the Principle Investigator of the following Projects. 
 
