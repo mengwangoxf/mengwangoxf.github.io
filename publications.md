@@ -5,6 +5,8 @@ title: publications
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-7780-630X" href="https://orcid.org/0000-0001-7780-630X" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-7780-630X</a></div>.
 
+2023
+
 1. [APLAS 2023] [*What Types are Needed for Typing Dynamic Objects? A 
   Python-based Empirical Study*](./Papers/APLAS23.pdf)in Asian Symposium on Programming Languages and Systems (APLAS). Joint work with Ke Sun, Sheng Chen, and Dan Hao. (Core Ranking A)
 
@@ -21,10 +23,14 @@ title: publications
 
 1. [TOSEM 2023] [*Exploring Better Black-Box Test Case Prioritization via Log Analysis*](./Papers/TOSEM23.pdf) in ACM Transactions on Software Engineering and Methodology. (Core Ranking A*)
 
+2022
+
 1. [ICFP 2022] [*Modular Probabilistic Models via Algebraic Effects*](./Papers/ICFP22.pdf) in Proceedings of the ACM on Programming Languages (PACMPL ICFP). Joint work with Minh Nguyen, Roly Perera and Nicolas Wu. (Core Ranking A)
 1. [Internetware 2022] [*Bridging the Gap between Different Programming Paradigms in Coverage-based Fault Localization*](./Papers/PADL22.pdf) in Proceedings of the Asia-Pacific Symposium on Internetware. Joint work with Feng Li and Dan Hao.1. [PADL 2022] [*CircuitFlow: A Domain Specific Language for Dataflow Programming*](./Papers/PADL22.pdf) in International Symposium on Practical Aspects of Declarative Languages. Joint work with Riley Evans and Samantha Frohlich.1. [POPL 2022a] [*Staging with Class - A specification for Typed Template Haskell*](./Papers/POPL22a.pdf) in Proceedings of the ACM on Programming Languages (PACMPL POPL). Joint work with Ningning Xie, Matthew Pickering, Andres Loh, Nicolas Wu, and Jeremy Yallop.(Core Ranking A*)
 
 1. [POPL 2022b] [*Linked visualisations via Galois dependencies*](./Papers/POPL22b.pdf) in Proceedings of the ACM on Programming Languages (PACMPL POPL). Joint work with Roly Perera, Minh Nguyen, and Tomas Petricek.(Core Ranking A*)
+
+pre 2021
 
 1. [OOPSLA 2021] [*Synbit: Synthesizing Bidirectional Programs using Unidirectional Sketches*](./Papers/oopsla21.pdf) in Proceedings of the ACM on Programming Languages (PACMPL OOPSLA). Joint work with Masaomi Yamaguchi, Kazutaka Matsuda, and Cristina David.(Core Ranking A*)
 
