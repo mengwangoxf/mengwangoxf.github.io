@@ -30,6 +30,9 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 ## News
 
+Aug, 2023
+: [Reflecting on Random Generation](./Papers/ICFP23b.pdf) received Distinguished Paper award at ICFP'23!
+
 July, 2023
 : [Contract Lenses: Reasoning about Bidirectional Programs via Calculation](./Papers/JFP23.pdf) is accepted by Journal of Functional Programming. 
 
@@ -38,7 +41,7 @@ July, 2023
 : [Effect Handlers for Programmable Inference](./Papers/Haskell23.pdf) is accepted by Haskell'23. 
 
 Jun, 2023
-: **We are recruiting a [lecturer in Programming Languages and Compilers](https://www.bristol.ac.uk/jobs/find/details/?jobId=316176&jobTitle=Lecturer%20in%20Programming%20Languages%20and%20Compilers).**
+: We are recruiting a [lecturer in Programming Languages and Compilers](https://www.bristol.ac.uk/jobs/find/details/?jobId=316176&jobTitle=Lecturer%20in%20Programming%20Languages%20and%20Compilers).
 
 Jun, 2023
 : My student Minh Nguyen is awarded EPSRC Doctoral Prize Fellowship for the proposal Robust, Reusable Computational Models via Typed Functional Programming.

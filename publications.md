@@ -15,7 +15,7 @@ title: publications
 1. [ICFP 2023a] [*Embedding by Unembedding*](./Papers/ICFP23a.pdf) in Proceedings of the ACM on Programming Languages (PACMPL ICFP). Joint work with Kazutaka Matsuda, Samantha Frohlich, and Nick Wu.
 (Core Ranking A)
 
-1. [ICFP 2023b] [*Reflecting on Random Generation*](./Papers/ICFP23b.pdf) in Proceedings of the ACM on Programming Languages (PACMPL ICFP). Joint work with Harrison Goldstein, Samantha Frohlich, and Benjamin C. Pierce. (Core Ranking A)
+1. [ICFP 2023b] [*Reflecting on Random Generation*](./Papers/ICFP23b.pdf) in Proceedings of the ACM on Programming Languages (PACMPL ICFP). Joint work with Harrison Goldstein, Samantha Frohlich, and Benjamin C. Pierce. (Core Ranking A) <span style="color:red"> **(Distinguished Paper)**</span> 
 
 1. [CAV 2023] [*Ownership guided C to Rust translation*](./Papers/CAV23.pdf)in International Conference on Computer Aided Verification (CAV). Joint work with Hanliang Zhang, Cristina David, and Yijun Yu. (Core Ranking A*)
 
