@@ -8,7 +8,7 @@ title: publications
 2023
 
 1. [APLAS 2023] [*What Types are Needed for Typing Dynamic Objects? A 
-  Python-based Empirical Study*](./Papers/APLAS23.pdf)in Asian Symposium on Programming Languages and Systems (APLAS). Joint work with Ke Sun, Sheng Chen, and Dan Hao. (Core Ranking A)
+  Python-based Empirical Study*](./Papers/APLAS23.pdf)in Asian Symposium on Programming Languages and Systems (APLAS). Joint work with Ke Sun, Sheng Chen, and Dan Hao. 
 
 1. [JFP 2023] [*Contract Lenses: Reasoning about Bidirectional Programs via Calculation*](./Papers/JFP23.pdf)in Journal of Functional Programming. Joint work with Hanliang Zhang, Wenhao Tang, Ruifeng Xie, and Zhenjiang Hu. (Core Ranking A)
 

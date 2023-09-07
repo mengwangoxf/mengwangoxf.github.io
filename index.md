@@ -30,6 +30,9 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 ## News
 
+Sep, 2023
+: I am co-organising [PEPM 2024](https://popl24.sigplan.org/home/pepm-2024). Please consider submitting. Deadline: 18th October 2023. 
+
 Aug, 2023
 : [Reflecting on Random Generation](./Papers/ICFP23b.pdf) received Distinguished Paper award at ICFP'23!
 
