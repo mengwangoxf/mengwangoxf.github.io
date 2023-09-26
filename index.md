@@ -30,6 +30,16 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 ## News
 
+
+Sep, 2023
+: I am on the PC of [ICFP24](https://conf.researchr.org/home/icfp-2024). Please consider submitting. 
+
+Sep, 2023
+: We are organising [Fun in the Afternoon / S-REPLS 13](https://plrg-bristol.github.io/fir/) at Bristol.
+
+Sep, 2023
+: I delivered a keynote *Translation to Rust* at China Computer Federation (CCF). 
+
 Sep, 2023
 : I am co-organising [PEPM 2024](https://popl24.sigplan.org/home/pepm-2024). Please consider submitting. Deadline: 18th October 2023. 
 
@@ -75,11 +85,6 @@ Sep, 2022
 Sep, 2022
 : Roly Perera has joint the group as a research fellow, and Joe Bond and Cameron Low as research associates. Welcome!
 
-July, 2022
-: I am delivering a keynote *Ownership-Driven Synthesizer for Automatic C to Rust Translation* at the Global Software Technology Summit organised by Huawei Ireland Research Centre. 
-
-May, 2022
-: [Modular Probabilistic Models via Algebraic Effects](./Papers/ICFP22.pdf) is accepted by ICFP'22.
 
 ---
 

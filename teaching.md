@@ -5,6 +5,11 @@ title: Teaching
 
 ## Old News
 
+July, 2022
+: I am delivering a keynote *Ownership-Driven Synthesizer for Automatic C to Rust Translation* at the Global Software Technology Summit organised by Huawei Ireland Research Centre. 
+
+May, 2022
+: [Modular Probabilistic Models via Algebraic Effects](./Papers/ICFP22.pdf) is accepted by ICFP'22.
 
 Dec, 2021
 : Funding success! *Ownership and Lifetime Driven Synthesizer for Automatic C to Rust Translation* is funded by Huawei Ireland.
