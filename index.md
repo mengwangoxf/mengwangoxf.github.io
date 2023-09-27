@@ -30,6 +30,8 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 ## News
 
+Sep, 2023
+: My student Minh Nguyen has successfully defended his PhD thesis *Effects and Effect Handlers for Probabilistic Programming*. Congratulations Minh!
 
 Sep, 2023
 : I am on the PC of [ICFP24](https://conf.researchr.org/home/icfp-2024). Please consider submitting. 
