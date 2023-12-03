@@ -3,7 +3,12 @@ layout: default
 title: publications
 ---
 
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-7780-630X" href="https://orcid.org/0000-0001-7780-630X" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-7780-630X</a></div>.
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-7780-630X" href="https://orcid.org/0000-0001-7780-630X" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-7780-630X</a></div>
+
+2024
+
+1. [JFP 2024] [*Sparcl: A Language for Partially-Invertible Computation*](./Papers/JFP24.pdf) in Journal of Functional Programming. Joint work with Kazutaka Matsuda. (Core Ranking A)
+
 
 2023
 
