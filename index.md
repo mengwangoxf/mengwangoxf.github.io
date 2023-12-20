@@ -30,6 +30,9 @@ The central theme of his research is to apply theoretical rigour to practical pr
 ## News
 
 Dec, 2023
+: [Reconciling Partial and Local Invertibility](./Papers/ESOP24.pdf) is accepted by European Symposium on Programming. 
+
+Dec, 2023
 : [SPARCL : A Language for Partially-Invertible Computation](./Papers/JFP24.pdf) is accepted by Journal of Functional Programming. 
 
 Sep, 2023
