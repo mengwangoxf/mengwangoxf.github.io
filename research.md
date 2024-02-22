@@ -32,18 +32,11 @@ Year | Title
 
 I am involved in the following conferences. Please consider submitting. 
 
-* [PEPM 2024]() (Program Co-Chair)
+* [ICFP 2024](https://conf.researchr.org/home/icfp-2024) (PC)
+* [PEPM 2024](https://popl24.sigplan.org/home/pepm-2024) (Program Co-Chair)
 * [TASE 2023](https://bristolpl.github.io/tase2023/) (General Chair)
 * [ASE 2023](https://conf.researchr.org/home/ase-2023) (PC)
 
 Past services: EASE 2023, IFL 2022, EASE 2022, EASE 2021, IFL 2021, BX 2021, APLAS 2020, PPDP 2020, FROM 2020, TFP 2020, EASE 2020, TASE 2020, BX 2020,TASE 2019, ICFP 2018, TFP 2018, FLOPS 2018, BX 2018, IFL 2017, TFP 2017 (co-chair), BX 2017, IFL 2016, ICFP 2016, BX 2015, ACM SRC 2015, WGP 2014, ICFP SRC 2014 (Chair), APLAS 2013, PPDP 2013, FLOPS 2013
-
-### Memberships
-
-* EPSRC Peer Review College 
-* Royal Society Newton Advanced Fellowship panel
-* Information Processing’s Working Group 2.1 on Algorithmic Languages and Calculi
-* Steering Committee of the Symposium on Trends in Functional Programming
-* Steering Committee of the Workshop on Bidirectional Transformation
 
 ---
