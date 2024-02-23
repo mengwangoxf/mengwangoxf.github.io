@@ -7,7 +7,7 @@ title: About
 
 <img class="profile-picture" src="meng.jpeg">
 
-Dr. Meng Wang is a Reader in the Department of Computer Science, with research interests in programming languages and software engineering. He heads the [*Programming Languages Research Group at Bristol*](https://bristolpl.github.io) and is a member of [*IFIP Working Group 2.1 on Algorithmic Languages and Calculi*](https://ifipwg21wiki.cs.kuleuven.be/IFIP21/WebHome). He is the international director of School of Computer Science and lead Core computer science with line management responsibility for academics of five areas (programming languages, algorithms and complexity, cryptography, high performance computing, and trustworthy systems). 
+Dr. Meng Wang is a Reader in the School of Computer Science, with research interests in programming languages and software engineering. He heads the [*Programming Languages Research Group at Bristol*](https://bristolpl.github.io) and is a member of [*IFIP Working Group 2.1 on Algorithmic Languages and Calculi*](https://ifipwg21wiki.cs.kuleuven.be/IFIP21/WebHome). He is also the lead of Core computer science (programming languages, algorithms and complexity, cryptography, high performance computing, and trustworthy systems) with line management responsibilities for all academics in these areas. 
 
 Previously, he was a lecturer at University of Kent, and an assistant professor at Chalmers University of Technology. He completed his DPhil (known as PhD elsewhere) at University of Oxford, and before that he studied at National University of Singapore.
 
