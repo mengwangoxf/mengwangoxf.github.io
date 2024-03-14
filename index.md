@@ -30,7 +30,7 @@ The central theme of his research is to apply theoretical rigour to practical pr
 ## News
 
 Mar, 2024
-: Cristina and I are recruting a [PostDoc in programming languages](https://www.bristol.ac.uk/jobs/find/details/?jobId=337277&jobTitle=Senior%20Research%20Associate%20in%20Programming%20Languages). 
+: Cristina and I are recruiting a [PostDoc in programming languages](https://www.bristol.ac.uk/jobs/find/details/?jobId=337277&jobTitle=Senior%20Research%20Associate%20in%20Programming%20Languages). 
 
 Dec, 2023
 : [Reconciling Partial and Local Invertibility](./Papers/ESOP24.pdf) is accepted by European Symposium on Programming. 
