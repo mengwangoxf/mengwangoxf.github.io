@@ -7,6 +7,8 @@ title: publications
 
 2024
 
+1. [Draft] [*Towards Translating Real-World Code with LLMs: A Study of Translating to Rust*](./Papers/draft.pdf). 
+
 1. [ESOP 2024] [*Reconciling Partial and Local Invertibility*](./Papers/ESOP24.pdf) in European Symposium on Programming. Joint work with Anders Ågren Thuné and Kazutaka Matsuda. (Core Ranking A)
 
 1. [JFP 2024] [*Sparcl: A Language for Partially-Invertible Computation*](./Papers/JFP24.pdf) in Journal of Functional Programming. Joint work with Kazutaka Matsuda. (Core Ranking A)
