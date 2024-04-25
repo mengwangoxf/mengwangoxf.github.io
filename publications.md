@@ -9,6 +9,8 @@ In submission
 
 1. [*Towards Translating Real-World Code with LLMs: A Study of Translating to Rust*](./Papers/draft.pdf). 
 
+1. [*Formalizing, Mechanizing, and Verifying Class-based Refinement Types*](./Papers/draft1.pdf). 
+ 
 
 2024
 
