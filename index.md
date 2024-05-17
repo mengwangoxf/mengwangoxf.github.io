@@ -29,6 +29,9 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 ## News
 
+Apr, 2024
+: Funding success! Two projects on translating legacy code to memory safe languages are funded by EPSRC IAA.
+
 Mar, 2024
 : Funding success! *Compiler Testing Via Holistic Analysis* is funded by the Royal Society.
 
