@@ -8,11 +8,11 @@ title: publications
 In submission
 
 1. [*Towards Translating Real-World Code with LLMs: A Study of Translating to Rust*](./Papers/draft.pdf). 
-
-1. [*Formalizing, Mechanizing, and Verifying Class-based Refinement Types*](./Papers/draft1.pdf). 
  
 
 2024
+
+1. [ECOOP 2024] [*Formalizing, Mechanizing, and Verifying Class-based Refinement Types*](./Papers/ECOOP24.pdf) in European Conference on Object-Oriented Programming. Joint work with Ke Sun, Di Wang, Sheng Chen, and Dan Hao. (Core Ranking A)
 
 1. [ESOP 2024] [*Reconciling Partial and Local Invertibility*](./Papers/ESOP24.pdf) in European Symposium on Programming. Joint work with Anders Ågren Thuné and Kazutaka Matsuda. (Core Ranking A)
 
