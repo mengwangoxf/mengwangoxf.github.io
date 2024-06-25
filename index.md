@@ -29,6 +29,9 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 ## News
 
+Jun, 2024
+: [*Formalizing, Mechanizing, and Verifying Class-based Refinement Types*](./Papers/ECOOP24.pdf) is accepted by ECOOP. 
+
 Apr, 2024
 : Funding success! Two projects on translating legacy code to memory safe languages are funded by EPSRC IAA.
 
