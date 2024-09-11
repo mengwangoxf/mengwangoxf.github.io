@@ -5,6 +5,18 @@ title: Teaching
 
 ## Old News
 
+Oct, 2022
+: [Exploring Better Black-Box Test Case Prioritization via Log Analysis](./Papers/TOSEM22.pdf) is accepted by ACM Transactions on Software Engineering and Methodology. 
+
+May, 2022
+: We are organising the [International Symposium on Theoretical Aspects of Software Engineering](https://bristolpl.github.io/tase2023/index.html) at Bristol.
+
+Sep, 2022
+: I am delivering a keynote *Functional Programming. Why does it matter?* at Huawei Strategy and Technology Workshop. 
+
+Sep, 2022
+: Roly Perera has joint the group as a research fellow, and Joe Bond and Cameron Low as research associates. Welcome!
+
 July, 2022
 : I am delivering a keynote *Ownership-Driven Synthesizer for Automatic C to Rust Translation* at the Global Software Technology Summit organised by Huawei Ireland Research Centre. 
 
