@@ -29,6 +29,9 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 ## News
 
+October, 2024
+: [*An Empirical Study of the Non-determinism of ChatGPT in Code Generation*](./Papers/TOSEM24.pdf) is accepted by TOSEM. 
+
 Jun, 2024
 : [*Formalizing, Mechanizing, and Verifying Class-based Refinement Types*](./Papers/ECOOP24.pdf) is accepted by ECOOP. 
 
