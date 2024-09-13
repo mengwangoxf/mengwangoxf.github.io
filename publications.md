@@ -15,7 +15,7 @@ In submission
 1. [TOSEM 2024] [*An Empirical Study of the Non-determinism of ChatGPT in Code Generation*](./Papers/TOSEM24.pdf) in ACM Transactions on Software Engineering and Methodology. Joint work with Shuyin Ouyang, Jie M. Zhang, and Mark Harman. (Core Ranking A*)
 
 
-1. [ECOOP 2024] [*Formalizing, Mechanizing, and Verifying Class-based Refinement Types*](./Papers/ECOOP24.pdf) in European Conference on Object-Oriented Programming. Joint work with Ke Sun, Di Wang, Sheng Chen, and Dan Hao. (Core Ranking A)
+1. [ECOOP 2024] [*Formalizing, Mechanizing, and Verifying Class-based Refinement Types*](./Papers/ECOOP24.pdf) in European Conference on Object-Oriented Programming. Joint work with Ke Sun, Di Wang, Sheng Chen, and Dan Hao. (Core Ranking A) <span style="color:red"> **(Distinguished Paper)**</span> 
 
 1. [ESOP 2024] [*Reconciling Partial and Local Invertibility*](./Papers/ESOP24.pdf) in European Symposium on Programming. Joint work with Anders Ågren Thuné and Kazutaka Matsuda. (Core Ranking A)
 
