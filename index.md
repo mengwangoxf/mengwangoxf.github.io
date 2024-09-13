@@ -29,7 +29,10 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 ## News
 
-Oct, 2024
+Sep, 2024
+: Distinguished Paper Award at ECOOP 2024!
+
+Sep, 2024
 : [*An Empirical Study of the Non-determinism of ChatGPT in Code Generation*](./Papers/TOSEM24.pdf) is accepted by TOSEM. 
 
 Aug, 2024
