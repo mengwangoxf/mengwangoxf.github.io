@@ -28,6 +28,11 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 
 ## News
+Feb, 2025
+: Job alert! [Senior Research Associate in Programming Languages](https://www.bristol.ac.uk/jobs/find/details/?jobId=372879&jobTitle=Senior%20Research%20Associate%20in%20Programming%20Languages).  
+
+Jan, 2025
+: Ke Sun from Peking University is visiting for 3 months. 
 
 Sep, 2024
 : Distinguished Paper Award at ECOOP 2024!
