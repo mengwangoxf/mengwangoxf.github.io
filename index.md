@@ -30,6 +30,9 @@ The central theme of his research is to apply theoretical rigour to practical pr
 ## News
 
 Mar, 2025
+: I am pleased to share that I am now serving as the Steering Committee Chair for Partial Evaluation and Program Manipulation (PEPM). 
+
+Mar, 2025
 : [* Scalable,
 Validated Code Translation of Entire Projects using Large Language
 Models*](./Papers/PLDI25.pdf) is (conditionally) accepted by PLDI. 
