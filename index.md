@@ -28,6 +28,12 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 
 ## News
+
+Mar, 2025
+: [* Scalable,
+Validated Code Translation of Entire Projects using Large Language
+Models*](./Papers/PLDI25.pdf) is (conditionally) accepted by PLDI. 
+
 Feb, 2025
 : Job alert! [Senior Research Associate in Programming Languages](https://www.bristol.ac.uk/jobs/find/details/?jobId=372879&jobTitle=Senior%20Research%20Associate%20in%20Programming%20Languages).  
 
