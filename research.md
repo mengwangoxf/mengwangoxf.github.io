@@ -34,11 +34,11 @@ Year | Title
 
 I am involved in the following conferences. Please consider submitting. 
 
-* [ICFP 2024](https://conf.researchr.org/home/icfp-2024) (PC)
-* [PEPM 2024](https://popl24.sigplan.org/home/pepm-2024) (Program Co-Chair)
-* [TASE 2023](https://bristolpl.github.io/tase2023/) (General Chair)
-* [ASE 2023](https://conf.researchr.org/home/ase-2023) (PC)
+* [‹Programming› 2025](https://2025.programming-conference.org/) (PC)
+* [PEPM 2026](https://popl24.sigplan.org/home/pepm-2024) (Steering Committee Chair)
+* [Haskell 2025](https://conf.researchr.org/home/icfp-splash-2025/haskellsymp-2025) (PC)
+* [ASE 2025](https://conf.researchr.org/home/ase-2025) (PC)
 
-Past services: EASE 2023, IFL 2022, EASE 2022, EASE 2021, IFL 2021, BX 2021, APLAS 2020, PPDP 2020, FROM 2020, TFP 2020, EASE 2020, TASE 2020, BX 2020,TASE 2019, ICFP 2018, TFP 2018, FLOPS 2018, BX 2018, IFL 2017, TFP 2017 (co-chair), BX 2017, IFL 2016, ICFP 2016, BX 2015, ACM SRC 2015, WGP 2014, ICFP SRC 2014 (Chair), APLAS 2013, PPDP 2013, FLOPS 2013
+Past services: ICFP 2024, PEPM 2024 (co-chair), TASE 2023, ASE 2023, EASE 2023, IFL 2022, EASE 2022, EASE 2021, IFL 2021, BX 2021, APLAS 2020, PPDP 2020, FROM 2020, TFP 2020, EASE 2020, TASE 2020, BX 2020,TASE 2019, ICFP 2018, TFP 2018, FLOPS 2018, BX 2018, IFL 2017, TFP 2017 (co-chair), BX 2017, IFL 2016, ICFP 2016, BX 2015, ACM SRC 2015, WGP 2014, ICFP SRC 2014 (Chair), APLAS 2013, PPDP 2013, FLOPS 2013
 
 ---
