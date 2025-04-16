@@ -5,10 +5,10 @@ title: publications
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-7780-630X" href="https://orcid.org/0000-0001-7780-630X" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-7780-630X</a></div>
 
-In submission
+2025
 
-1. [*Towards Translating Real-World Code with LLMs: A Study of Translating to Rust*](./Papers/draft.pdf). 
- 
+1. [PLDI 2025] [*Scalable, Validated Code Translation of Entire Projects using Large Language Models*](./Papers/PLDI25.pdf) in ACM SIGPLAN Conference on Programming Language Design and Implementation. Joint work with Hanliang Zhang, Cristina David, Brandon Paulsen, and Daniel Kroening. (Core Ranking A*)
+
 
 2024
 
