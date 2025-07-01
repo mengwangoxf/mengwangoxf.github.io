@@ -8,7 +8,7 @@ title: Team
 
 ## PhD Students
 
-### Primary Supervisor 
+### Lead Supervisor 
 * Weilin He
 * Liqiang Shang
 * Tom	Divers
