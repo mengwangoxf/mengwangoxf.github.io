@@ -4,31 +4,39 @@ title: Team
 ---
 
 ## Research Associates
-* Minh Nguyen 
-* Samantha Frohlich
-* Joe Bond
-* Cameron Low
+* Wenjia Ye 
 
 ## PhD Students
 
+### Primary Supervisor 
+* Weilin He
+* Liqiang Shang
+* Tom	Divers
+* Jessica Foster 
+* Hanliang Zhang 
+* Samantha Frohlich 
+
+### Second Supervisor 
+* Weilin He
 * April Tune
 * Celia Li 
 * Charlie Walpole 
-* Jessica Foster 
-* Hanliang Zhang 
 * Yoav Alon 
-* Samantha Frohlich 
-* Feng Li (jointly supervised with Prof Dan Hao from Peking University)
+* Henrijs	Princis
+* Ke Sun (Peking University)
 
 
 ## Past Members
 
-* Roly Perera (Research Fellow. Then a research fellow at Cambridge.) 
-* Weixin Zhang (PDRA. Then a Chief Architect at NetEase, Inc.)
-* Joanna Sharrad (PhD student. Graduated in 2022.)
-* Ningning Xie (Visiting PhD student from Hong Kong University. Graduated in 2021. Then an assistant professor at University of Toronto.)
-* Joe Harrison (PhD student. Graduated in 2019. Then a research associate at University of Kent.)
-* Jonas Duregård (PhD student. Graduated in 2016. Then a lecturer at Chalmers University of Technology.)
+* Joe Bond (Research Associate)
+* Xin Zhang (Visiting PhD student from Peiking University. Then research scientist at Huawei.)
+* Cameron Low (Research Associate)
+* Minh Nguyen (PhD student; Research Fellow. Then Core Software Engineer at Oneiro Solutions.)
+* Roly Perera (Research Fellow. Then research fellow at Cambridge.) 
+* Weixin Zhang (PDRA. Then Chief Architect at NetEase, Inc.)
+* Ningning Xie (Visiting PhD student from Hong Kong University. Then assistant professor at University of Toronto.)
+* Joe Harrison (PhD student. Then research associate at University of Kent.)
+* Jonas Duregård (PhD student. Then lecturer at Chalmers University of Technology.)
 
 ---
 
