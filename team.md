@@ -9,7 +9,6 @@ title: Team
 ## PhD Students
 
 ### Lead Supervisor 
-* Weilin He
 * Liqiang Shang
 * Tom	Divers
 * Jessica Foster 
@@ -28,7 +27,7 @@ title: Team
 
 ## Past Members
 
-* Joe Bond (Research Associate)
+* Joe Bond (Research Associate. Then Standard Chartered.)
 * Xin Zhang (Visiting PhD student from Peiking University. Then research scientist at Huawei.)
 * Cameron Low (Research Associate)
 * Minh Nguyen (PhD student; Research Fellow. Then Core Software Engineer at Oneiro Solutions.)
