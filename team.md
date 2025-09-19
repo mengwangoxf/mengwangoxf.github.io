@@ -12,21 +12,21 @@ title: Team
 * Liqiang Shang
 * Tom	Divers
 * Jessica Foster 
-* Hanliang Zhang 
-* Samantha Frohlich 
 
 ### Second Supervisor 
 * Weilin He
 * April Tune
 * Celia Li 
 * Charlie Walpole 
-* Yoav Alon 
 * Henrijs	Princis
 * Ke Sun (Peking University)
-
+* Samson Main
 
 ## Past Members
 
+* Hanliang Zhang (PhD student. Then research scientist at Amazon Web Services.)
+* Samantha Frohlich (PhD student. Then lecturer at University of Bristol.)
+* Yoav Alon 
 * Joe Bond (Research Associate. Then Standard Chartered.)
 * Xin Zhang (Visiting PhD student from Peiking University. Then research scientist at Huawei.)
 * Cameron Low (Research Associate)
