@@ -29,6 +29,9 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 ## News
 
+Oct, 2025
+: [*False-Positive Bug Reports in Deep Learning Compilers: Stages, Root Causes, and Mitigation*](./Papers/TOSEM26.pdf) is accepted by TOSEM. 
+
 Sep, 2025
 : I will be serving on the [*PLDI 2026*](https://pldi26.sigplan.org/) program committee.
 
