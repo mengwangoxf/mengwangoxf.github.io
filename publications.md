@@ -7,6 +7,9 @@ title: publications
 
 2025
 
+1. [TOSEM 2025] [*False-Positive Bug Reports in Deep Learning Compilers:
+Stages, Root Causes, and Mitigation*](./Papers/TOSEM25.pdf) in ACM Transactions on Software Engineering and Methodology. Joint work with Lili Huang, Qingchao Shen, Dong Wang, Yunping Wu, and Junjie Chen. (Core Ranking A*)
+
 1. [PLDI 2025] [*Scalable, Validated Code Translation of Entire Projects using Large Language Models*](./Papers/PLDI25.pdf) in ACM SIGPLAN Conference on Programming Language Design and Implementation. Joint work with Hanliang Zhang, Cristina David, Brandon Paulsen, and Daniel Kroening. (Core Ranking A*)
 
 

@@ -30,6 +30,9 @@ The central theme of his research is to apply theoretical rigour to practical pr
 ## News
 
 Oct, 2025
+: [*Wenjia Ye*](https://yewenjia.github.io/) has joint my group as a senior research associate. She will be working on a graduate type system for Rust-like languages among others. 
+
+Oct, 2025
 : [*False-Positive Bug Reports in Deep Learning Compilers: Stages, Root Causes, and Mitigation*](./Papers/TOSEM26.pdf) is accepted by TOSEM. 
 
 Sep, 2025
