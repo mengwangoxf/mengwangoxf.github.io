@@ -12,17 +12,18 @@ I am the Principle Investigator of the following Projects.
 
 Year | Title 
 -----|-----------
-2024-2025| *CROWN integration and demonstration*, EPSRC IAA
-2024| *Translating Codebases in Other Languages into Rust*, EPSRC IAA
-2022-2024 | *Debugging Systems For Metaprogramming-based EDSLs*, Huawei Ireland
-2022-2024 | *Ownership and Lifetime Driven Synthesizer for Automatic C to Rust Translation*, Huawei Ireland
-2020-2023 | [*EXHIBIT : Expressive High-Level Languages for Bidirectional Transformations*](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T008911/1), EPSRC
+2026-2029| *Complex Semantics For Higher Order Abstract Syntax*, EPSRC
+2024-2026| *CROWN integration and demonstration*, EPSRC IAA
+2022-2026 | *Debugging Systems For Metaprogramming-based EDSLs*, Huawei Ireland
 
 
 ### Past Projects
 
 Year | Title 
 ---|-----------
+2022-2024 | *Ownership and Lifetime Driven Synthesizer for Automatic C to Rust Translation*, Huawei Ireland
+2024| *Translating Codebases in Other Languages into Rust*, EPSRC IAA
+2020-2024 | [*EXHIBIT : Expressive High-Level Languages for Bidirectional Transformations*](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T008911/1), EPSRC
 2021-2022 | *Verified Program Synthesis for Refactoring Rust Programs*, NCSC/EPSRC
 2020-2022 | *Making Software Development Language-Agnostic through Cross-Language Mapping and Migration*, Royal Society 
 2018-2021 | *Software Testing Guided by Differential Analysis on Programming Languages*, Royal Society 
@@ -34,11 +35,11 @@ Year | Title
 
 I am involved in the following conferences. Please consider submitting. 
 
-* [‹Programming› 2025](https://2025.programming-conference.org/) (PC)
+* [PLDI 2026](https://pldi26.sigplan.org/) (PC)
+* [ReCode 2026](https://conf.researchr.org/home/recode26) (PC)
+* [‹Programming› 2026](https://2026.programming-conference.org/) (PC)
 * [PEPM 2026](https://popl24.sigplan.org/home/pepm-2024) (Steering Committee Chair)
-* [Haskell 2025](https://conf.researchr.org/home/icfp-splash-2025/haskellsymp-2025) (PC)
-* [ASE 2025](https://conf.researchr.org/home/ase-2025) (PC)
 
-Past services: ICFP 2024, PEPM 2024 (co-chair), TASE 2023, ASE 2023, EASE 2023, IFL 2022, EASE 2022, EASE 2021, IFL 2021, BX 2021, APLAS 2020, PPDP 2020, FROM 2020, TFP 2020, EASE 2020, TASE 2020, BX 2020,TASE 2019, ICFP 2018, TFP 2018, FLOPS 2018, BX 2018, IFL 2017, TFP 2017 (co-chair), BX 2017, IFL 2016, ICFP 2016, BX 2015, ACM SRC 2015, WGP 2014, ICFP SRC 2014 (Chair), APLAS 2013, PPDP 2013, FLOPS 2013
+Past services: ‹Programming› 2025, Haskell 2025, ASE 2025, ICFP 2024, PEPM 2024 (co-chair), TASE 2023, ASE 2023, EASE 2023, IFL 2022, EASE 2022, EASE 2021, IFL 2021, BX 2021, APLAS 2020, PPDP 2020, FROM 2020, TFP 2020, EASE 2020, TASE 2020, BX 2020,TASE 2019, ICFP 2018, TFP 2018, FLOPS 2018, BX 2018, IFL 2017, TFP 2017 (co-chair), BX 2017, IFL 2016, ICFP 2016, BX 2015, ACM SRC 2015, WGP 2014, ICFP SRC 2014 (Chair), APLAS 2013, PPDP 2013, FLOPS 2013
 
 ---
