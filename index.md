@@ -29,6 +29,10 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 ## News
 
+Mar, 2026
+: [*Contextual Embeddings: Implementing bound variables through
+  instance resolution*](./Papers/PLDI26.pdf) is accepted by PLDI. 
+
 Jan, 2026
 : Funding success! *Complex Semantics for Higher Order Abstract Syntax* is funded by the EPSRC. The proposal is partially based on our ICFP'23 paper [*Embedding by Unembedding*](./Papers/ICFP23a.pdf).
 
