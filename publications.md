@@ -5,6 +5,13 @@ title: publications
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-7780-630X" href="https://orcid.org/0000-0001-7780-630X" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-7780-630X</a></div>
 
+2026
+
+1. [ESOP 2026] [*Lenses for Partially-Specified States*](./Papers/ESOP26.pdf) in European Symposium on Programming. Joint work with Kazutaka Matsuda and Minh Nguyen. (Core Ranking A)
+
+1. [PLDI 2026] [*Contextual Embeddings: Implementing bound variables through instance resolution*](./Papers/PLDI26.pdf) in ACM SIGPLAN Conference on Programming Language Design and Implementation. Joint work with Samantha Frohlich, Alex Kavvos, and Jess Foster. (Core Ranking A*)
+
+
 2025
 
 1. [TOSEM 2025] [*False-Positive Bug Reports in Deep Learning Compilers:
