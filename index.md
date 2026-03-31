@@ -24,14 +24,20 @@ The central theme of his research is to apply theoretical rigour to practical pr
 * Testing
 
 
-**I am looking for motivated PhD students and PostDocs. Please get in touch if you are interested.**
+**I am looking for motivated PhD students and PostDocs. Please get in touch if you are interested -- I am always available for a chat.**
 
 
 ## News
 
-Mar, 2026
+Apr, 2026
+: Job alert! I am looking for two postdoctoral researchers to join my team to work on exciting challenges in programming languages. The posts offer the freedom to pursue research across a broad range of topics, along with excellent academic and financial support. Please get in touch if interested.
+
+Apr, 2026
 : [*Contextual Embeddings: Implementing bound variables through
   instance resolution*](./Papers/PLDI26.pdf) is accepted by PLDI. 
+
+Mar, 2026
+: My PhD student, [*Sam Frohlich*](https://samfrohlich.github.io/), has been appointed as a Lecturer in Computer Science at Bristol. Sam has been a tremendous asset to both the School and my research group, and I am very much looking forward to this next chapter of working together.
 
 Jan, 2026
 : Funding success! *Complex Semantics for Higher Order Abstract Syntax* is funded by the EPSRC. The proposal is partially based on our ICFP'23 paper [*Embedding by Unembedding*](./Papers/ICFP23a.pdf).
