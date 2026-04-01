@@ -37,6 +37,9 @@ Apr, 2026
   instance resolution*](./Papers/PLDI26.pdf) is accepted by PLDI. 
 
 Mar, 2026
+: I have been nominated for the Inspirational PhD Supervisor Award at Bristol. I’m very glad to know that some of my students feel I’ve done something right.
+
+Mar, 2026
 : My PhD student, [*Sam Frohlich*](https://samfrohlich.github.io/), has been appointed as a Lecturer in Computer Science at Bristol. Sam has been a tremendous asset to both the School and my research group, and I am very much looking forward to this next chapter of working together.
 
 Jan, 2026
