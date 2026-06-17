@@ -33,7 +33,7 @@ Year | Title
 
 ### Professional Services
 
-I am involved in the following conferences. Please consider submitting. 
+I am an editor of the Journal of Functional Programming. I am also currently involved in the following conferences. Please consider submitting. 
 
 * [PLDI 2026](https://pldi26.sigplan.org/) (PC)
 * [ReCode 2026](https://conf.researchr.org/home/recode26) (PC)
