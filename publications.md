@@ -12,6 +12,7 @@ title: publications
 1. [PLDI 2026] [*Contextual Embeddings: Implementing bound variables through instance resolution*](./Papers/PLDI26.pdf) in ACM SIGPLAN Conference on Programming Language Design and Implementation. Joint work with Samantha Frohlich, Alex Kavvos, and Jess Foster. (Core Ranking A*)
 
 
+
 2025
 
 1. [TOSEM 2025] [*False-Positive Bug Reports in Deep Learning Compilers:
@@ -19,6 +20,7 @@ Stages, Root Causes, and Mitigation*](./Papers/TOSEM25.pdf) in ACM Transactions 
 
 1. [PLDI 2025] [*Scalable, Validated Code Translation of Entire Projects using Large Language Models*](./Papers/PLDI25.pdf) in ACM SIGPLAN Conference on Programming Language Design and Implementation. Joint work with Hanliang Zhang, Cristina David, Brandon Paulsen, and Daniel Kroening. (Core Ranking A*)
 
+1. [SETTA 2025] [*Automated Translation of Real-World Codebases: How Far Are We?*](./Papers/SETTA25.pdf) in International Symposium on Dependable Software Engineering: Theories, Tools, and Applications. Joint work with Cristina David and Hanliang Zhang.
 
 2024
 
