@@ -29,6 +29,9 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 ## News
 
+Jun, 2026
+: Funding Success! I have received a generous donation from Canonical Ltd funding Alex Wood's PhD study on Automated Code Translation for Memory Safety.
+
 Apr, 2026
 : Job alert! I am looking for two postdoctoral researchers to join my team to work on exciting challenges in programming languages. The posts offer the freedom to pursue research across a broad range of topics, along with excellent academic and financial support. Please get in touch if interested.
 

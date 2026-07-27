@@ -5,10 +5,13 @@ title: Team
 
 ## Research Associates
 * Wenjia Ye 
+* Jinhao Tan 
 
 ## PhD Students
 
 ### Lead Supervisor 
+* Ruifeng Fu
+* Alex Wood
 * Liqiang Shang
 * Tom	Divers
 * Jessica Foster 
@@ -19,14 +22,13 @@ title: Team
 * Celia Li 
 * Charlie Walpole 
 * Henrijs	Princis
-* Ke Sun (Peking University)
 * Samson Main
 
 ## Past Members
-
+* Ke Sun (PhD student. Then research scientist at WizardQuant.)
 * Hanliang Zhang (PhD student. Then research scientist at Amazon Web Services.)
 * Samantha Frohlich (PhD student. Then lecturer at University of Bristol.)
-* Yoav Alon 
+* Yoav Alon (PhD student.)
 * Joe Bond (Research Associate. Then Standard Chartered.)
 * Xin Zhang (Visiting PhD student from Peiking University. Then research scientist at Huawei.)
 * Cameron Low (Research Associate)
