@@ -29,6 +29,16 @@ The central theme of his research is to apply theoretical rigour to practical pr
 
 ## News
 
+Oct, 2026
+[*Jinhao Tan*](https://jinhaotan.com/) has joint my group as a senior research associate. He will be working on advanced embedded language techniques involving complex bindings. 
+
+Oct, 2026
+: [*Benchmarking and Advancing Large Language Models for LLVM
+  Compiler Issue Resolution*](./Papers/ICSE27.pdf) is accepted by ICSE. 
+
+Sep, 2026
+: Alex Wood and Ruifeng Fu have started as PhD students. Welcome Alex and Ruifeng! 
+
 Jun, 2026
 : Funding Success! I have received a generous donation from Canonical Ltd funding Alex Wood's PhD study on Automated Code Translation for Memory Safety. Also see Jon's [*blog post*] (https://discourse.ubuntu.com/t/investing-in-automated-c-to-rust-translation/86369) on the topic. 
 
